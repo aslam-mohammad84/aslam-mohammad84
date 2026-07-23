@@ -171,21 +171,8 @@ I love transforming old hardware into useful software projects.
 
 ## 🐍 Contribution Snake
 
+## 🐍 Contribution Snake
+
 <p align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/aslam-mohammad84/aslam-mohammad84/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/aslam-mohammad84/aslam-mohammad84/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/aslam-mohammad84/aslam-mohammad84/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
+  <img src="https://raw.githubusercontent.com/aslam-mohammad84/aslam-mohammad84/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
